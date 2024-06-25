@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\StringTrim\bin\Debug\net8.0\StringTrim.exe
+C:\Users\48571\source\repos\StringTrim\bin\Debug\net8.0\StringTrim.deps.json
+C:\Users\48571\source\repos\StringTrim\bin\Debug\net8.0\StringTrim.runtimeconfig.json
+C:\Users\48571\source\repos\StringTrim\bin\Debug\net8.0\StringTrim.dll
+C:\Users\48571\source\repos\StringTrim\bin\Debug\net8.0\StringTrim.pdb
+C:\Users\48571\source\repos\StringTrim\obj\Debug\net8.0\StringTrim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\StringTrim\obj\Debug\net8.0\StringTrim.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\StringTrim\obj\Debug\net8.0\StringTrim.AssemblyInfo.cs
+C:\Users\48571\source\repos\StringTrim\obj\Debug\net8.0\StringTrim.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\StringTrim\obj\Debug\net8.0\StringTrim.dll
+C:\Users\48571\source\repos\StringTrim\obj\Debug\net8.0\refint\StringTrim.dll
+C:\Users\48571\source\repos\StringTrim\obj\Debug\net8.0\StringTrim.pdb
+C:\Users\48571\source\repos\StringTrim\obj\Debug\net8.0\StringTrim.genruntimeconfig.cache
+C:\Users\48571\source\repos\StringTrim\obj\Debug\net8.0\ref\StringTrim.dll
